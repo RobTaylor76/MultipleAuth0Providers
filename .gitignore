@@ -1,0 +1,6 @@
+.idea
+.env
+tmp/
+log/
+db/development.sqlite3
+Gemfile.lock
